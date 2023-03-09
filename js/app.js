@@ -1,6 +1,6 @@
 // MERMAID 
 if(navigator.serviceWorker) {
-    navigator.serviceWorker.register('/sw.js');
+    navigator.serviceWorker.register('tw/sw.js');
 }
 
 // Referencias de jQuery
